@@ -1,5 +1,5 @@
 ## Liudmila Baukova 
-![Me](./img/profile2.jpg)
+![Me](profile2.jpg)
 
 #### Contacts:
 Moscow, Russia. bauklu378@gmail.com
